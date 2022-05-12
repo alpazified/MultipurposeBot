@@ -39,7 +39,7 @@
     "enmap": "^5.8.7",
     "error-stack-parser": "^2.0.6",
     "express": "^4.16.4",
-    "express-session": "^1.17.2",
+    "express-session": "^1.17.3",
     "form-data": "^4.0.0",
     "humanize-duration": "^3.27.0",
     "ip": "^1.1.5",
